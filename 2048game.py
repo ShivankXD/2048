@@ -1,3 +1,4 @@
+#2048 game using python pygame
 from tkinter import *
 import random
 class Play_2048(Tk):
